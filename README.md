@@ -1,7 +1,3 @@
-Certainly! Here's a description you can use for your GitHub repository:
-
----
-
 # Cardano Airdrop Smart Contract
 
 This repository contains a Haskell smart contract for conducting an airdrop on the Cardano blockchain using the Plutus smart contract platform.
